@@ -27,7 +27,7 @@ It's a piece of cake!
         ]);
     }
 ```    
-- At the end in views\auth\login.blade.php chang the field of email to phone input:
+- At the end in views\auth\login.blade.php change the field of email to phone input:
 ```
 <div class="form-group row">
     <label for="phone" class="col-sm-4 col-form-label text-md-right">Phone Number</label>
@@ -41,7 +41,7 @@ It's a piece of cake!
     </div>
 </div>  
 ```  
-
+- It's Done! 
 
 ## License
 
